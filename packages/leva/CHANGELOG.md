@@ -1,5 +1,12 @@
 # leva
 
+## 0.8.2
+
+### Patch Changes
+
+- b4aa43d: Fix: add empty key warning.
+- e21f2fe: fix: slider position overflowing with range input.
+
 ## 0.8.1
 
 ### Patch Changes
